@@ -1,0 +1,25 @@
+{
+	"extensions":
+	[
+		"mdown",
+		"md"
+	],
+	"ignored_packages":
+	[
+		"C#",
+		"Vintage",
+		"Objective-C",
+		"C++",
+		"Erlang",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
+		"Sublimerge Pro",
+		"BracketHighlighter",
+		"emmet"
+	],
+	"word_wrap": true,
+	"spell_check": true,
+	"line_number": true,
+	"tab_size": 4,
+	"detect_indentation": false
+}

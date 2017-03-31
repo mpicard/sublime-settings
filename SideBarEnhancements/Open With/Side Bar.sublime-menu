@@ -1,0 +1,49 @@
+[
+{"id": "side-bar-files-open-with",
+"children":
+[
+{
+	"caption": "Firefox",
+	"id": "side-bar-files-open-with-firefox",
+
+	"command": "side_bar_files_open_with",
+	"args": {
+		"paths": [],
+		"application": "Firefox.app",
+		"extensions":"html",
+		"args":[]
+		},
+		"open_automatically" : false
+		},
+		{
+			"caption": "Safari",
+			"id": "side-bar-files-open-with-safari",
+			"command": "side_bar_files_open_with",
+			"args": {
+				"paths": [],
+				"application": "Safari.app",
+				"extensions": "html",
+				"args": []
+				},
+				"open_automatically": false
+				},
+			//separator
+			// {"caption":"-"},
+
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Google Chrome.app",
+					"extensions":"html",
+					"args":[]
+					},
+					"open_automatically" : false
+					},
+
+					{"caption":"-"}
+					]
+				}
+				]

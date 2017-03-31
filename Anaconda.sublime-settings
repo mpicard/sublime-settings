@@ -1,0 +1,13 @@
+{
+  "pyflakes_explicit_ignore": [ "UnusedVariable" ],
+  "enable_signatures_tooltip": false,
+  "disable_anaconda_completion": true,
+  "enable_docstrings_tooltip": false,
+  "display_signatures": false,
+  "pep8_ignore":
+  [
+    "E402",
+    "E309",
+    "E501",
+  ],
+}

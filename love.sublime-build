@@ -1,0 +1,5 @@
+{
+    "selector": "source.lua",
+    "shell": true,
+    "cmd": ["/usr/local/bin/love ${project_path}"]
+}

@@ -1,0 +1,14 @@
+{
+  "codeformatter_js_options": {
+    "tab_size": 2
+  },
+  "codeformatter_php_options": {
+    "tab_size": 2
+  },
+  "codeformatter_css_options": {
+    "tab_size": 2
+  },
+  "codeformatter_html_options": {
+    "tab_size": 2
+  }
+}

@@ -1,0 +1,5 @@
+{
+	"format_on_save": true,
+	"php_bin": "/usr/local/opt/php56/bin/php",
+	"version": 1
+}
